@@ -1,0 +1,9 @@
+{
+  "integer": 1,
+  "float": 0.5,
+  "string": "hello",
+  "boolean": true,
+  "object": {
+    "key": "value"
+  }
+}
